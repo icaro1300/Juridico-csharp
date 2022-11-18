@@ -1,0 +1,5 @@
+C:\Users\android\Documents\icaro\Juridico\obj\Debug\net5.0\Juridico.csprojAssemblyReference.cache
+C:\Users\android\Documents\icaro\Juridico\obj\Debug\net5.0\Juridico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\icaro\Juridico\obj\Debug\net5.0\Juridico.AssemblyInfoInputs.cache
+C:\Users\android\Documents\icaro\Juridico\obj\Debug\net5.0\Juridico.AssemblyInfo.cs
+C:\Users\android\Documents\icaro\Juridico\obj\Debug\net5.0\Juridico.csproj.CoreCompileInputs.cache
