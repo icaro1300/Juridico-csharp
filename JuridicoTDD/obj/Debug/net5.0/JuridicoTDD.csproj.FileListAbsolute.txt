@@ -1,0 +1,5 @@
+C:\Users\android\Documents\NAO APAGA ESTA MERDA icaro\JuridicoTDD\obj\Debug\net5.0\JuridicoTDD.csprojAssemblyReference.cache
+C:\Users\android\Documents\NAO APAGA ESTA MERDA icaro\JuridicoTDD\obj\Debug\net5.0\JuridicoTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\NAO APAGA ESTA MERDA icaro\JuridicoTDD\obj\Debug\net5.0\JuridicoTDD.AssemblyInfoInputs.cache
+C:\Users\android\Documents\NAO APAGA ESTA MERDA icaro\JuridicoTDD\obj\Debug\net5.0\JuridicoTDD.AssemblyInfo.cs
+C:\Users\android\Documents\NAO APAGA ESTA MERDA icaro\JuridicoTDD\obj\Debug\net5.0\JuridicoTDD.csproj.CoreCompileInputs.cache

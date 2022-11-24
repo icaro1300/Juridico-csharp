@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juridico", "Juridico.csproj", "{FC0D8156-5DBE-47BC-86F2-F01D1E49E6F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuridicoTDD", "..\JuridicoTDD\JuridicoTDD.csproj", "{91ACE43E-0350-4C7A-ACD0-47DEF02E7742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0D8156-5DBE-47BC-86F2-F01D1E49E6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0D8156-5DBE-47BC-86F2-F01D1E49E6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0D8156-5DBE-47BC-86F2-F01D1E49E6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0D8156-5DBE-47BC-86F2-F01D1E49E6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91ACE43E-0350-4C7A-ACD0-47DEF02E7742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91ACE43E-0350-4C7A-ACD0-47DEF02E7742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91ACE43E-0350-4C7A-ACD0-47DEF02E7742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91ACE43E-0350-4C7A-ACD0-47DEF02E7742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E85D0D44-878B-4A43-ABBE-AA5F3C0E0858}
+	EndGlobalSection
+EndGlobal
