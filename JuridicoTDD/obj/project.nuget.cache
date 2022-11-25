@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "31WBnKouJXQUqK/XW9wODnN1EugkY2eMJG+AH52TjqZfTkmQW/ShzAbQ4avz5QOuWetMF+X7bV+pwxRQT1IgJA==",
+  "dgSpecHash": "rOeyw6g4A9Zc7azIIWOItVX92JJwso9Gtp6YUNAeXM1KK1PK/K32r86kIpAbVzyBaoKg6AUA6uCtha7CPkHR5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\android\\Documents\\NAO APAGA ESTA MERDA icaro\\JuridicoTDD\\JuridicoTDD.csproj",
+  "projectFilePath": "C:\\Users\\android\\Documents\\NAO APAGA ESTA MERDA PORR4 icaro\\Repositorio icaro git hub\\Juridico\\JuridicoTDD\\JuridicoTDD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\android\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\android\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
