@@ -5645,11 +5645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\android\\source\\repos\\AdvocaciaSolution\\AdvocaciaTDD\\AdvocaciaTDD.csproj",
+      "projectUniqueName": "C:\\Users\\android\\Documents\\NAO APAGA ESTA MERDA PORR4 icaro\\Repositorio icaro git hub\\icaro1300\\AdvocaciaSolution\\AdvocaciaTDD\\AdvocaciaTDD.csproj",
       "projectName": "AdvocaciaTDD",
-      "projectPath": "C:\\Users\\android\\source\\repos\\AdvocaciaSolution\\AdvocaciaTDD\\AdvocaciaTDD.csproj",
+      "projectPath": "C:\\Users\\android\\Documents\\NAO APAGA ESTA MERDA PORR4 icaro\\Repositorio icaro git hub\\icaro1300\\AdvocaciaSolution\\AdvocaciaTDD\\AdvocaciaTDD.csproj",
       "packagesPath": "C:\\Users\\android\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\android\\source\\repos\\AdvocaciaSolution\\AdvocaciaTDD\\obj\\",
+      "outputPath": "C:\\Users\\android\\Documents\\NAO APAGA ESTA MERDA PORR4 icaro\\Repositorio icaro git hub\\icaro1300\\AdvocaciaSolution\\AdvocaciaTDD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5672,8 +5672,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\android\\source\\repos\\AdvocaciaSolution\\AdvocaciaPrincipal\\AdvocaciaPrincipal.csproj": {
-              "projectPath": "C:\\Users\\android\\source\\repos\\AdvocaciaSolution\\AdvocaciaPrincipal\\AdvocaciaPrincipal.csproj"
+            "C:\\Users\\android\\Documents\\NAO APAGA ESTA MERDA PORR4 icaro\\Repositorio icaro git hub\\icaro1300\\AdvocaciaSolution\\AdvocaciaPrincipal\\AdvocaciaPrincipal.csproj": {
+              "projectPath": "C:\\Users\\android\\Documents\\NAO APAGA ESTA MERDA PORR4 icaro\\Repositorio icaro git hub\\icaro1300\\AdvocaciaSolution\\AdvocaciaPrincipal\\AdvocaciaPrincipal.csproj"
             }
           }
         }
